@@ -1,4 +1,4 @@
-replicaCount: 6
+replicaCount: 8
 
 image:
   repository: john1436gilbert/eks-app
